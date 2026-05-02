@@ -10,3 +10,14 @@ Key Highlights :
  4) Analyzed delivery performance → 7,800+ late deliveries impacting customer satisfaction
  5) Found 74% transactions via credit card → opportunity for targeted offers
  6) Identified top-performing products, categories & sellers
+
+Business Impact & Insights : 
+1) Designed RFM segmentation to identify high-value and at-risk customers
+2) Performed cohort analysis to track user retention over time
+3) Discovered strong link between faster delivery and higher ratings
+4) Highlighted seller concentration risk (top sellers driving major revenue)
+5) Provided data-driven recommendations to improve retention, logistics, and revenue
+Tools & Technologies : 
+1) MySQL → Data modeling, joins, views, complex queries
+2) Python (Pandas) → Data cleaning & exploratory analysis
+3) Power BI → Interactive dashboards & KPI visualization
